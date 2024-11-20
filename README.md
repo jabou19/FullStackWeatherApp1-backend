@@ -36,3 +36,5 @@ o	Include names of project participants
 -	A slide that explains your choice of architecture
 -	A slide that explains how the application is tested
 o	This is about automated tests and code quality – not user testing
+
+# A presentation Portfolio in PDF
