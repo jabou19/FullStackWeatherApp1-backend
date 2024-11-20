@@ -1,5 +1,9 @@
 # WeatherAppFullStack
 Backend (Spring MVC) 
+
+## Description of Cyber-Physical Systems Portfolio Criteria
+[View PDF](./PDF/CPS_Portfolio.pdf)
+
 ## How should the application be run?
  (a Fullstack ) All the 3 parts of the application ie. database, backend and frontend must be started 
 separately, and it must be done in the following order.
@@ -14,8 +18,6 @@ can be found under the BackendSpring/src/main/java/com/weather/WeatherApplicatio
 running "npm start" in the terminal.
 5. React is a JavaScript library for building user interfaces
 
-## Description of Cyber-Physical Systems Portfolio Criteria
-[View PDF](./PDF/CPS_Portfolio.pdf)
 
 ## A presentation Portfolio in PDF
 [View PDF](./PDF/Presentation_af_Portefølge.pdf)
