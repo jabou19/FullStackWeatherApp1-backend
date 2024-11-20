@@ -15,9 +15,9 @@ Portfolio is handed in alone or in pairs. 2 students MAX per portfolio! Both stu
 A coded application in a zip file:
 -	Not .rar, 7zip or other formats – only .zip!
 -	Application is coded using one of these:
-o	Frontend: JavaScript OR React
-o	Backend: (Java spring, integration , design pattern, MVC or microservices) OR NodeJS<-only for backend
-o	Database: MySQL OR MongoDB
+1	Frontend: JavaScript OR React
+2 Backend: (Java spring, integration , design pattern, MVC or microservices) OR NodeJS<-only for backend
+3 Database: MySQL OR MongoDB
 -	Application gets data from another online application
 -	Data is stored in the database
 -	The frontend presents a form of statistic over the data in the database
