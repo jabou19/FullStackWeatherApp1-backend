@@ -38,4 +38,4 @@ o	Include names of project participants
 o	This is about automated tests and code quality – not user testing
 
 # A presentation Portfolio in PDF
-[View PDF](./PDF/Presentation_af_Portfolio.pdf)
+[View PDF](./PDF/Presentation_af_Portefølge.pdf)
