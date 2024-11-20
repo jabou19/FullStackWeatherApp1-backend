@@ -38,3 +38,4 @@ o	Include names of project participants
 o	This is about automated tests and code quality – not user testing
 
 # A presentation Portfolio in PDF
+[View PDF](./Backend/Files/PDF%20files/Klimator%20BA-Project-Proposal-2024.pdf)
