@@ -13,7 +13,7 @@ running "npm start" in the terminal.
 4. React is a JavaScript library for building user interfaces
 
 ## Description of Cyber-Physical Systems Portfolio Criteria
-[View PDF](./PDF/Presentation_af_Portefølge.pdf)
+[View PDF](./PDF/CPS_Portfolio.pdf)
 
 ## A presentation Portfolio in PDF
 [View PDF](./PDF/Presentation_af_Portefølge.pdf)
